@@ -14,6 +14,7 @@ import org.slf4j.Logger;
 
 @Mod(NewcalMod.MOD_ID)
 public class NewcalMod {
+    //test ajout github
     public static final String MOD_ID = "newcalmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
